@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com","l":"Button"},{"p":"com","l":"Car"},{"p":"com","l":"CrashManager"},{"p":"com","l":"GiocoAuto"},{"p":"com","l":"LoaderImg"},{"p":"com","l":"LoadGame"},{"p":"com","l":"Ostacolo"},{"p":"com","l":"SaveGame"},{"p":"com","l":"Sprite"},{"p":"com","l":"Strategy"},{"p":"com","l":"Stripes"}]
